@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/components/Disclaimer.tsx","./src/components/PricingTier.tsx","./src/components/RiskCard.tsx","./src/components/SafetyScore.tsx","./src/components/ScanProgress.tsx","./src/components/UploadZone.tsx","./src/hooks/useScan.ts","./src/lib/api.ts","./src/pages/Landing.tsx","./src/pages/Report.tsx"],"version":"5.9.3"}
